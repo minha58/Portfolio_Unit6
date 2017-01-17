@@ -1,7 +1,30 @@
-body {
- background-image: url("http://www.intrawallpaper.com/static/images/1102051-positive.jpg");
- }
-background-image{
- width:20px;
- height:20px;
+body{
+    background-image: url("http://i.giphy.com/nSTyEcd3Oj2Du.gif");
+background-repeat: no-repeat;
+  background-size: 2000px 950px;
+    
 }
+.white{
+ color:indigo;
+ text-align: center;
+ font-size:250%;
+}
+#h{
+ color:black;
+ font-weight: bolder;
+ font-size: 650%;
+ background-color: burlywood;
+border-radius: 34px;
+text-align: center;}
+#magic{
+ color:khaki;
+ font-size:250%;
+}
+#search{
+ color:blue;
+ font-size: 30px;
+ border-radius: 20px;
+ 
+} 
+       
+   
